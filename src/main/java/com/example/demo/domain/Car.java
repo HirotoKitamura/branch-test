@@ -3,6 +3,7 @@ package com.example.demo.domain;
 public class Car {
 	private int speed;
 
+
 	public int getSpeed() {
 		return speed;
 	}
